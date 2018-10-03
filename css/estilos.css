@@ -1,0 +1,22 @@
+header{
+	background-color: #5b7989;
+	border-radius: 10px 10px 0 0;
+}
+
+header h1{
+	color: #fff;
+	text-shadow: 2px 2px #02010a;
+}
+
+header nav a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#ImagenCentral{
+	background-color: #82c3a6;
+}
+
+#ImagenCentral figure{
+	text-align: center;
+}
